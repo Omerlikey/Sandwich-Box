@@ -12,10 +12,10 @@ An open-source, modular edge computing and smart home hub platform. 
 🧠 强大的“大脑” (主控单元)
 
 * 可选方案：
-   * Pro/工业版: 双瑞芯微RK3588 SoC，提供顶级算力。
+   * Pro/工业版: 双h616 SoC，提供顶级算力。
    * 家庭版: 单SoC，平衡性能与功耗。
 * 运行完整的Linux系统，支持Docker容器，轻松部署复杂应用。
-* 丰富的接口: 千兆/2.5G以太网、多个USB端口、HDMI输出、PCIe x4扩展。
+* 丰富的接口: 千兆/2.5G以太网、多个USB端口、HDMI输出、PCIe 扩展。
 
 🦾 无限的“手脚” (协处理单元)
 
@@ -63,13 +63,13 @@ An open-source, modular edge computing and smart home hub platform. 
 
 🛠️ 技术概览
 
-* 主处理器:  瑞芯微 RK3588
+* 主处理器:  全志h616
 * 协处理器: 多颗ESP32-S3
 * 内存: LPDDR4
 * 存储: eMMC 
 * 网络: 千兆/2.5G以太网, 可选Wi-Fi 6扩展
 * 视频输出: HDMI 2.0
-* 扩展: PCIe x4, USB 3.0, GPIO, 专用背板接口
+* 扩展: PCIe , USB 3.0, GPIO, 专用背板接口
 * 操作系统: Linux (基于 Debian/Ubuntu 或 Buildroot)
 
 📜 许可证
