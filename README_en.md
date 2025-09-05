@@ -16,10 +16,10 @@ The
 🧠 Powerful "Brain" (Main Computing Unit)
 
 * Options:
-   * Pro/Industrial Edition: Dual Rockchip RK3588 SoCs for top-tier computing power.
+   * Pro/Industrial Edition: Dual h616 SoCs for top-tier computing power.
    * Home Edition: One SoC for a balance of performance and power efficiency.
 * Runs a full Linux system with Docker support for easy deployment of complex applications.
-* Rich I/O: Gigabit/2.5G Ethernet, multiple USB ports, HDMI output, PCIe x4 expansion.
+* Rich I/O: Gigabit/2.5G Ethernet, multiple USB ports, HDMI output, PCIe expansion.
 
 🦾 Unlimited "Limbs" (Co-processing Unit)
 
@@ -67,13 +67,13 @@ Please read our "Contributing Guidelines" (CONTRIBUTING.md) for more details.
 
 🛠️ Technical Overview
 
-* Main Processor: Rockchip RK3588
+* Main Processor: h616
 * Co-Processor: Multiple ESP32-S3
 * Memory: LPDDR4
 * Storage: eMMC 
 * Networking: Gigabit/2.5G Ethernet, optional Wi-Fi 6 via expansion
 * Video Output: HDMI 2.0
-* Expansion: PCIe x4, USB 3.0, GPIO, dedicated backplane interface
+* Expansion: PCIe , USB 3.0, GPIO, dedicated backplane interface
 * Operating System: Linux (Debian/Ubuntu-based or Buildroot)
 
 📜 License
