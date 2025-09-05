@@ -36,7 +36,8 @@ Help us make embedded computing accessible to everyone, everywhere.
 
 ---
 
-##We need you help!
+## We need you help!
+
 Call for Contributors!
 
 Hardware Design: We're looking for help with PCB layout and schematic design.
