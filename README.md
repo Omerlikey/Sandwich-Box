@@ -5,7 +5,7 @@
 
 **Select your language / 选择语言 / Seleccione su idioma:**
 
-→ [English](README.md) | [中文](README_cn.md) | [Español](README_es.md) | 
+→ [English](README.md) | [中文](README_cn.md) | 
 
 > **An open-source hardware platform that redefines edge computing and smart home hubs.**  
 > **重新定义边缘计算与智能家居中枢的开源硬件平台。**  
