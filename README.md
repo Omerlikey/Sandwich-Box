@@ -36,4 +36,27 @@ Help us make embedded computing accessible to everyone, everywhere.
 
 ---
 
+##We need you help!
+Call for Contributors!
+
+Hardware Design: We're looking for help with PCB layout and schematic design.
+
+Ideas & Discussion: Got new ideas? Join our discussion and let's brainstorm together!
+
+Logo Design: Calling all designers to help us create a project logo.
+
+Translation: Multilingual contributors are needed to help translate our documentation.
+
+号召贡献者！
+
+硬件设计： 我们需要帮助进行PCB布线和原理图设计。
+
+想法与讨论： 有新点子吗？加入我们的讨论，一起头脑风暴！
+
+LOGO设计： 呼唤所有设计师帮助我们创建一个项目logo。
+
+翻译： 我们需要精通多语言的贡献者来帮助翻译我们的文档。
+
+---
+
 ## 📂 File Structure
