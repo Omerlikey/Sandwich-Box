@@ -12,7 +12,7 @@ An open-source, modular edge computing and smart home hub platform. 
 🧠 强大的“大脑” (主控单元)
 
 * 可选方案：
-   * Pro/工业版: 双h616 SoC，提供顶级算力。
+   * Pro/工业版: 双rk3568 SoC，提供顶级算力。
    * 家庭版: 单SoC，平衡性能与功耗。
 * 运行完整的Linux系统，支持Docker容器，轻松部署复杂应用。
 * 丰富的接口: 千兆/2.5G以太网、多个USB端口、HDMI输出、PCIe 扩展。
