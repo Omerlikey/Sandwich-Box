@@ -1,7 +1,3 @@
-Of course! Here is the English translation of the README.md file I drafted for you. This version is perfect for publishing your project on GitHub to attract a global audience of developers.
-
-You can copy and paste this directly into your GitHub repository.
-
 Sandwich Box
 
 English | "中文" (README_zh.md)
@@ -16,7 +12,7 @@ The
 🧠 Powerful "Brain" (Main Computing Unit)
 
 * Options:
-   * Pro/Industrial Edition: Dual h616 SoCs for top-tier computing power.
+   * Pro/Industrial Edition: Dual rk3568 SoCs for top-tier computing power.
    * Home Edition: One SoC for a balance of performance and power efficiency.
 * Runs a full Linux system with Docker support for easy deployment of complex applications.
 * Rich I/O: Gigabit/2.5G Ethernet, multiple USB ports, HDMI output, PCIe expansion.
