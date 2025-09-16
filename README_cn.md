@@ -63,7 +63,7 @@ An open-source, modular edge computing and smart home hub platform. 
 
 🛠️ 技术概览
 
-* 主处理器:  全志h616
+* 主处理器:  rk3568 x2 &a133
 * 协处理器: 多颗ESP32-S3
 * 内存: LPDDR4
 * 存储: eMMC 
